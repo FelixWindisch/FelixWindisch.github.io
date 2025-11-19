@@ -31,7 +31,8 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 - [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://github.com), Felix Windisch, Lukas Radl, Thomas Köhler, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH ASIA 2025**
 - [Synthesis from infinite-state generalized reactivity (1) specifications](https://dl.acm.org/doi/abs/10.1007/978-3-031-75387-9_17), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **ISoLA 2025**
 - [Synthesis of Controllers for Continuous Blackbox Systems](https://link.springer.com/chapter/10.1007/978-3-031-82703-7_7), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **LNCS**
-- [Fast directed q-analysis for brain graphs](https://openaccess.thecvf.com/content/ICCV2025/html/Steiner_AAA-Gaussians_Anti-Aliased_and_Artifact-Free_3D_Gaussian_Rendering_ICCV_2025_paper.html), Michael Steiner, Thomas Köhler, Lukas Radl, **Felix Windisch**, Florian Unger, **BOSNJ**
+- [AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering](https://derthomy.github.io/AAA-Gaussians/), Michael Steiner, Thomas Köhler, Lukas Radl, **Felix Windisch**, Dieter Schmalstieg, Markus Steinberger, **ICCV 2025 Highlight**
+- [Fast directed q-analysis for brain graphs](https://openaccess.thecvf.com/content/ICCV2025/html/Steiner_AAA-Gaussians_Anti-Aliased_and_Artifact-Free_3D_Gaussian_Rendering_ICCV_2025_paper.html), **Felix Windisch**, Florian Unger, **BOSNJ**
 
 
 # 🎖 Honors and Awards
