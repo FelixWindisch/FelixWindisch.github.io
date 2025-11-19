@@ -27,19 +27,12 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory](https://arxiv.org/abs/2507.01110), **Felix Windisch**, Lukas Radl, Thomas Köhler, Michael Steiner, Dieter Schmalstieg, Markus Steinberger 
+- [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://github.com), Felix Windisch, Lukas Radl, Thomas Köhler, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH ASIA 2025**
+- [Synthesis from infinite-state generalized reactivity (1) specifications](https://dl.acm.org/doi/abs/10.1007/978-3-031-75387-9_17), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **ISoLA 2025**
+- [Synthesis of Controllers for Continuous Blackbox Systems](https://link.springer.com/chapter/10.1007/978-3-031-82703-7_7), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **LNCS**
+- [Fast directed q-analysis for brain graphs](https://openaccess.thecvf.com/content/ICCV2025/html/Steiner_AAA-Gaussians_Anti-Aliased_and_Artifact-Free_3D_Gaussian_Rendering_ICCV_2025_paper.html), Michael Steiner, Thomas Köhler, Lukas Radl, **Felix Windisch**, Florian Unger, **BOSNJ**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2019* Dr. Hans-Riegel-Fachpreis der Informatik, 2nd Place
