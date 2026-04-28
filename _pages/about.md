@@ -53,7 +53,7 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 - *2024-now*, TU Graz Institute of Visual Computing: PhD. Computer Science
 
 # 💬 Invited Talks
-- *2025.08*, SGP 2025 \| [\[video\]]([https://github.com/](https://www.youtube.com/watch?v=cQXjIWlPj3g&list=PLgJ6YIWoyXFgnby9SpjPJAd9LRv3DwH79&index=4))
+- *2025.08*, SGP 2025 \| [\[video\]](https://www.youtube.com/watch?v=cQXjIWlPj3g&list=PLgJ6YIWoyXFgnby9SpjPJAd9LRv3DwH79&index=4)
 
 # 💻 Internships
 - *Summer 2018*, Test-Driven Development, Axtesys GmbH
