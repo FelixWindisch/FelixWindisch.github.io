@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a University Assistant/PhD Student at the Institute of Visual Computing, Graz University of Technology. I work on city-scale reconstruction using Gaussian Splatting, supervised by Markus Steinberger.
 
-Previously, I received my Master's degree in Computer Science (with distinction) and my Bachelor's degree in Computer Science both at Graz University of Technology between 2019 and 2024. During this time, I worked as a study assistant, supporting various visual computing and alorithm classes. 
+Previously, I received my Master's degree in Computer Science (with distinction) and my Bachelor's degree in Computer Science both at Graz University of Technology between 2019 and 2024. During this time, I worked as a teaching and research assistant, supporting various visual computing and alorithm classes. 
 
 My research interests include Radiance Fields, GPU algorithms and Geometry Processing.
 
@@ -27,12 +27,14 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 
 # 📝 Publications 
 
-- [A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory](https://arxiv.org/abs/2507.01110), **Felix Windisch**, Lukas Radl, Thomas Köhler, Michael Steiner, Dieter Schmalstieg, Markus Steinberger 
-- [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://github.com), Lukas Radl, Felix Windisch,  Thomas Deixelberger, Jozef Hladky, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH ASIA 2025**
+- [A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory](https://arxiv.org/abs/2507.01110), **Felix Windisch**, Lukas Radl, Thomas Köhler, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH 2026**
+- [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://arxiv.org/abs/2506.19139), Lukas Radl, Felix Windisch,  Thomas Deixelberger, Jozef Hladky, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH ASIA 2025**
+- [Confidence-Based Mesh Extraction from 3D Gaussians](https://arxiv.org/abs/2603.24725), **Felix Windisch**\*, Lukas Radl\*, Andreas Kurz\*, Thomas Köhler, Michael Steiner, Markus Steinberger
 - [Synthesis from infinite-state generalized reactivity (1) specifications](https://dl.acm.org/doi/abs/10.1007/978-3-031-75387-9_17), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **ISoLA 2025**
 - [Synthesis of Controllers for Continuous Blackbox Systems](https://link.springer.com/chapter/10.1007/978-3-031-82703-7_7), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **LNCS**
 - [AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering](https://derthomy.github.io/AAA-Gaussians/), Michael Steiner, Thomas Köhler, Lukas Radl, **Felix Windisch**, Dieter Schmalstieg, Markus Steinberger, **ICCV 2025 Highlight**
 - [Fast directed q-analysis for brain graphs](https://openaccess.thecvf.com/content/ICCV2025/html/Steiner_AAA-Gaussians_Anti-Aliased_and_Artifact-Free_3D_Gaussian_Rendering_ICCV_2025_paper.html), **Felix Windisch**, Florian Unger, **BOSNJ**
+- [Time-optimal directed q-analysis](https://arxiv.org/abs/2506.19139), **Felix Windisch**, Florian Unger
 
 
 # 🎖 Honors and Awards
@@ -44,7 +46,7 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 - *2023* TU Graz 100 Siemens Scholarship
 - *2024, 2025* IAIK Student Research Excellence Award
 
-# 📖 Educations
+# 📖 Education
 - *2011–2019*, Bischöfliches Gymnasium Graz: Matura
 - *2019-2022*, Graz University of Technology: BSc. Computer Science
 - *2022-2024*, Graz University of Technology: MSc. Computer Science
@@ -60,3 +62,9 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 - *Summer 2022*, Controller Synthesis via SAT-Solving, Institute of Information Security @ TU Graz
 - *Summer 2023*, Controller Synthesis for Blackbox Systems, Institute of Information Security @ TU Graz
 - *Summer 2024*, Project Work Procedural Algorithm Quiz, Institute of Algorithms and Theory @ TU Graz
+
+# 📝 Reviewed for
+- [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
+- [IEEE Transactions on Visualization and Computer Graphics](https://www.computer.org/csdl/journal/tg)
+- [SIGGRAPH](https://www.siggraph.org/)
+- [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659)
