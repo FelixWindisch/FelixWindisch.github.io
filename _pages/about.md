@@ -29,7 +29,7 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 
 - [A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory](https://arxiv.org/abs/2507.01110), **Felix Windisch**, Lukas Radl, Thomas Köhler, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH 2026**
 - [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://arxiv.org/abs/2506.19139), Lukas Radl, Felix Windisch,  Thomas Deixelberger, Jozef Hladky, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH ASIA 2025**
-- [Confidence-Based Mesh Extraction from 3D Gaussians](https://arxiv.org/abs/2603.24725), **Felix Windisch**\*, Lukas Radl\*, Andreas Kurz\*, Thomas Köhler, Michael Steiner, Markus Steinberger
+- [Confidence-Based Mesh Extraction from 3D Gaussians](https://arxiv.org/abs/2603.24725), **Felix Windisch**\*, Lukas Radl\*, Andreas Kurz\*, Thomas Köhler, Michael Steiner, Markus Steinberger, **ECCV 2026**
 - [Synthesis from infinite-state generalized reactivity (1) specifications](https://dl.acm.org/doi/abs/10.1007/978-3-031-75387-9_17), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **ISoLA 2025**
 - [Synthesis of Controllers for Continuous Blackbox Systems](https://link.springer.com/chapter/10.1007/978-3-031-82703-7_7), Benedikt Maderbacher, **Felix Windisch**, Roderick Bloem, **LNCS**
 - [AAA-Gaussians: Anti-Aliased and Artifact-Free 3D Gaussian Rendering](https://derthomy.github.io/AAA-Gaussians/), Michael Steiner, Thomas Köhler, Lukas Radl, **Felix Windisch**, Dieter Schmalstieg, Markus Steinberger, **ICCV 2025 Highlight**
