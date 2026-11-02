@@ -27,6 +27,9 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 
 # 📝 Publications 
 
+- [VoroDuce: Massively Parallel 3D Voronoi Simplification with Volume-Aware Edge Collapse](https://arxiv.org/abs/2610.21811), **Felix Windisch**, Lukas Radl, Thomas Köhler, Shrisudhan Govindarajan, Marcel Pur, Andrea Tagliasacchi, Markus Steinberger
+- [SteadySplats: Resampling of Low-Variance Gaussians for High-Fidelity Stochastic Rendering](https://derthomy.github.io/SteadySplats/), **Felix Windisch**, Thomas Köhler, Lukas Radl, Chris Wyman, Georgios Kopanas, Bernhard Kerbl, Markus Steinberger
+- [Efficient Confidence-Aware Densification for 3DGS](https://arxiv.org/abs/2610.13541), Manuel Hofer, Thomas Köhler, **Felix Windisch**, Bernhard Kerbl, Markus Steinberger, Lukas Radl
 - [A LoD of Gaussians: Unified Training and Rendering for Ultra-Large Scale Reconstruction with External Memory](https://arxiv.org/abs/2507.01110), **Felix Windisch**, Lukas Radl, Thomas Köhler, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH 2026**
 - [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://arxiv.org/abs/2506.19139), Lukas Radl, Felix Windisch,  Thomas Deixelberger, Jozef Hladky, Michael Steiner, Dieter Schmalstieg, Markus Steinberger, **SIGGRAPH ASIA 2025**
 - [Confidence-Based Mesh Extraction from 3D Gaussians](https://arxiv.org/abs/2603.24725), **Felix Windisch**\*, Lukas Radl\*, Andreas Kurz\*, Thomas Köhler, Michael Steiner, Markus Steinberger, **ECCV 2026**
@@ -52,6 +55,9 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 - *2022-2024*, Graz University of Technology: MSc. Computer Science
 - *2024-now*, TU Graz Institute of Visual Computing: PhD. Computer Science
 
+# 🧑‍🏫 Teaching
+- 3D Computer Graphics and Realism
+
 # 💬 Invited Talks
 - *2025.08*, SGP 2025 \| [\[video\]](https://www.youtube.com/watch?v=cQXjIWlPj3g&list=PLgJ6YIWoyXFgnby9SpjPJAd9LRv3DwH79&index=4)
 
@@ -62,9 +68,11 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 - *Summer 2022*, Controller Synthesis via SAT-Solving, Institute of Information Security @ TU Graz
 - *Summer 2023*, Controller Synthesis for Blackbox Systems, Institute of Information Security @ TU Graz
 - *Summer 2024*, Project Work Procedural Algorithm Quiz, Institute of Algorithms and Theory @ TU Graz
+- *Winter 2026*, Research Internship, Waabi AI
 
 # 📝 Reviewed for
 - [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/csdl/journal/tp)
 - [IEEE Transactions on Visualization and Computer Graphics](https://www.computer.org/csdl/journal/tg)
 - [SIGGRAPH](https://www.siggraph.org/)
+- [Eurographics](https://www.eg.org/)
 - [Computer Graphics Forum](https://onlinelibrary.wiley.com/journal/14678659)
