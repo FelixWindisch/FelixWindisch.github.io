@@ -57,6 +57,13 @@ My research interests include Radiance Fields, GPU algorithms and Geometry Proce
 
 # 🧑‍🏫 Teaching
 - 3D Computer Graphics and Realism
+- Computer Graphics 1
+- Computer Graphics 2
+- Introduction to Scientific Writing
+- Algorithms and Datastructures 1
+- Algorithms and Datastructures 2
+- Theoretical Computer Science
+- Object-oriented Programming 1
 
 # 💬 Invited Talks
 - *2025.08*, SGP 2025 \| [\[video\]](https://www.youtube.com/watch?v=cQXjIWlPj3g&list=PLgJ6YIWoyXFgnby9SpjPJAd9LRv3DwH79&index=4)
