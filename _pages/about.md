@@ -23,8 +23,6 @@ Previously, I received my Master's degree in Computer Science (with distinction)
 
 My research interests include Radiance Fields, GPU algorithms and Geometry Processing.
 
-# 🔥 News
-
 # 📝 Publications 
 
 - [VoroDuce: Massively Parallel 3D Voronoi Simplification with Volume-Aware Edge Collapse](https://arxiv.org/abs/2610.21811), **Felix Windisch**, Lukas Radl, Thomas Köhler, Shrisudhan Govindarajan, Marcel Pur, Andrea Tagliasacchi, Markus Steinberger
